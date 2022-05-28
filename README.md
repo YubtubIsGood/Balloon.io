@@ -1,2 +1,2 @@
 # Balloon.io
-Like every .io game but my version!
+Like every .io game. W A S D to move. ez game
